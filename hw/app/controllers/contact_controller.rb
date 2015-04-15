@@ -1,10 +1,6 @@
 class ContactController < ApplicationController
 
-	#@f_name = "1"
-	#@l_name = "2"
-
 	def input
-
 	end
 
 	def output
