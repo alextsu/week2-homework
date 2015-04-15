@@ -7,6 +7,6 @@ Rails.application.routes.draw do
   get '/rps/show' => 'rps#show'
   get '/dice' => 'dice#start'
   get '/dice/roll' => 'dice#roll'
-  
+
 
 end
